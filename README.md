@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **Coding can "power up" your brain**
 
+<img align="right" alt="coding" wirth="500" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ankit gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit gupta" height="30" width="40" /></a>
