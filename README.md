@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit gupta</h1>
-<h3 align="center">I,m pursuing my Bachelor of Computer (BCA) from Shree Jain PG College</h3>
+<h3 align="center">I,m complete my Bachelor of Computer (BCA) from Shree Jain PG College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-03&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-03" /> </p>
 
