@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ankitgupta5635@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r0yZEukpNXbwXQhTCiuMMClECvMzuT2c/view?usp=sharing](https://drive.google.com/file/d/1r0yZEukpNXbwXQhTCiuMMClECvMzuT2c/view?usp=sharing)
+- 📄 Know about my experiences [Ankit_gupta resume](https://drive.google.com/file/d/1tWE0xrwyNnh47JyGTk4sIq8riqkaib_K/view?usp=sharing)
 
 - ⚡ Fun fact **Coding can "power up" your brain**
 
